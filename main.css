@@ -1,0 +1,52 @@
+img {
+    margin: 1000px, 1000px, 1000px, 1000px;
+}
+
+p {
+    font-size: 24px;
+    font-family: 'Slackside One', cursive;
+    color: white;
+}
+
+body {
+    font-family: 'Slackside One', cursive;
+    background-color: #b0ca71;
+}
+
+h1  {
+    font-size: 48px;
+    font-family: 'Slackside One', cursive;
+    color: white;
+}
+
+h2 {
+    font-size: 48px;
+    font-family: 'Slackside One', cursive;
+    color: white;
+}
+
+h3 {
+    font-size: 40px;
+    font-family: 'Slackside One', cursive;
+    color: white;
+}
+
+li, a {
+    font-size: 24px;
+    font-family: 'Slackside One', cursive;
+}
+
+.table .td {
+    font-family: 'Slackside One', cursive;
+    background: #b0ca71;
+    color: white;
+    padding: 100px;
+}
+
+nav {
+    font-family: 'Slackside One', cursive;
+    color: #b0ca71;
+}
+
+
+
